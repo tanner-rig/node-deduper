@@ -1,5 +1,5 @@
 {
-  "name": "knack-coding-exercise",
+  "name": "node-deduper",
   "version": "1.0.0",
   "description": "Removes duplicates from application data",
   "main": "src/app.js",
